@@ -89,21 +89,12 @@ html,body{
 }
 
 .container#banner {
+	font-family: 'Open Sans', sans-serif !important;
 	color: rgb(241, 240, 240);
 }
 
 a#banner-btn {
 	margin-bottom: 200px;
-}
-
-/* .container#banner {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-	} */
-
-.site-main .site-banner {
 }
 
 /* End Banner Area */
